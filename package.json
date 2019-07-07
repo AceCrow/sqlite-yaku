@@ -1,0 +1,29 @@
+{
+  "name": "sqlite-yaku",
+  "version": "1.0.0",
+  "description": "A wrapper for the sqlite library. It is meant to make the API easier to use. This is mainly done through the addition of promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite",
+    "sqlite3",
+    "promise",
+    "yaku"
+  ],
+  "author": "Ace Crow",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceCrow/sqlite-yaku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AceCrow/sqlite-yaku/issues"
+  },
+  "homepage": "https://github.com/AceCrow/sqlite-yaku#readme"
+}
